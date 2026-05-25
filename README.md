@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
 I am a pre-final year Computer Science and Engineering student at CAHCET. My background bridges the gap between data-driven technology and impactful digital strategy. I enjoy transforming complex data into insights and building platforms that engage global audiences.<br><br>I design SEO optimized websites and handle social media strategy. I use an analytical mindset and data visualization to drive insights. My creative strategy combines technical logic with platform-specific content creation.<br><br>Let’s Connect. I am actively seeking opportunities where I can contribute and scale my skills.<br>
 
 
