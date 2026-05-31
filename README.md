@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🛠️ What I Do
-💻 Developing structured, scalable, and efficient web platforms.
-📊 Turning raw numbers into visual stories and strategic decisions.
-📈 Designing SEO-optimized sites and data-driven social media strategies.
+
+![]💻 Developing structured, scalable, and efficient web platforms
+![]📊 Turning raw numbers into visual stories and strategic decisions.
+![]📈 Designing SEO-optimized sites and data-driven social media strategies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roshni-bharath-0812312a5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4crHwK2QTLeDCqi9Nb0oKg%3D%3D) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@roshbharath09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roshnibharath2026@gmail.com) 
