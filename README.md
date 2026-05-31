@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a pre-final year Computer Science and Engineering student at CAHCET. My background bridges the gap between data-driven technology and impactful digital strategy. I enjoy transforming complex data into insights and building platforms that engage global audiences.<br><br>I design SEO optimized websites and handle social media strategy. I use an analytical mindset and data visualization to drive insights. My creative strategy combines technical logic with platform-specific content creation.<br><br>Let’s Connect. I am actively seeking opportunities where I can contribute and scale my skills.<br>
-
+🛠️ What I Do
+💻 Developing structured, scalable, and efficient web platforms.
+📊 Turning raw numbers into visual stories and strategic decisions.
+📈 Designing SEO-optimized sites and data-driven social media strategies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roshni-bharath-0812312a5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4crHwK2QTLeDCqi9Nb0oKg%3D%3D) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@roshbharath09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roshnibharath2026@gmail.com) 
