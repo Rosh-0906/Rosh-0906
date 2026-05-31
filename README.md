@@ -1,4 +1,4 @@
-# 💫 Hi there !:
+# 💫 Hi there
 🛠️ What I Do<br><br>🎓 Education: Pre-final year Computer Science & Engineering student.<br>💻 Focus: Bridging the gap between data-driven technology and digital growth strategy.<br>📊 Expertise: Developing SEO-optimized websites, content systems, and data visualizations.<br>🎨 Leisure: Unwinding through art and reflective journaling.
 
 
