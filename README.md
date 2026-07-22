@@ -1,5 +1,5 @@
 # 💫 Hello there:
-🛠️ What I Do<br><br>🎓 Education: Final year Computer Science & Engineering student.<br>💻 Focus: Bridging the gap between data-driven technology and digital growth strategy.<br>📊 Expertise: Developing SEO-optimized websites, content systems, and data visualizations.<br>🎨 Leisure: Unwinding through art and reflective journaling.<br>🥳https://roshni-portfolio-gx24.vercel.app/
+🛠️ What I Do<br><br>🎓 Education: Final year Computer Science & Engineering student.<br>💻 Focus: Bridging the gap between data-driven technology and digital growth strategy.<br>📊 Expertise: Developing SEO-optimized websites, content systems, and data visualizations.<br>🎨 Leisure: Unwinding through art and reflective journaling.<br>🥳 https://roshni-portfolio-gx24.vercel.app/
 
 
 ## 🌐 Socials:
